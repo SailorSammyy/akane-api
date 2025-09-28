@@ -1,4 +1,4 @@
-# Redline API
+# Akane API
 
 ## Getting Started
 1. `git clone https://github.com/sailorsammyy/akane-api.git`
