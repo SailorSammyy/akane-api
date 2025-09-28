@@ -6,7 +6,7 @@
 3. `npm run start`
 
 ## Documentation
-For detailed API documentation, visit the [API Documentation]().
+For detailed API documentation, visit the [API Documentation](https://akane-api-private.vercel.app/).
 
 ## Credits
 This project was created and is maintained by **[SailorSammyy](https://github.com/SailorSammyy)**.
